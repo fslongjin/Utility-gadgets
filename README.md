@@ -1,16 +1,10 @@
 # Utility gadgets
 
-------
-
 Languages: English|[中文](README_Simplified_Chinese)
-
-------
 
 ## What is this?
 
 This project is a collection of Python scripts to solve some simple and common problems. You can use them and write some gadgets and upload them to here!
-
-------
 
 ## Organizational structure
 
@@ -18,8 +12,6 @@ I want to classify scripts by folder according to their purpose, so you can find
 When you are contributing to a project, I hope you can do the same~
 
 - [files](files/) -- Tools related to file operation
-
-------
 
 ## Contribute your code
 
@@ -29,8 +21,6 @@ When you initiate a pull request, I will handle it as soon as possible!
 If you have any questions, please email me：longjin@RinGoTek.cn
 
 My blog：[longjin666.cn](https://longjin666.cn)
-
-------
 
 ## Buy me a cup of coffee!
 

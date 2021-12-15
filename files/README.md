@@ -1,10 +1,6 @@
 # Files
 
-------
-
 Languages: English|[中文](README_Simplified_Chinese)
-
-------
 
 ## Organizational structure
 
@@ -12,8 +8,6 @@ I want to classify scripts by folder according to their purpose, so you can find
 When you are contributing to a project, I hope you can do the same~
 
 - [files](files/) -- Tools related to file operation
-
-------
 
 ## Contribute your code
 

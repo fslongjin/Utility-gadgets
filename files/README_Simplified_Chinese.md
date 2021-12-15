@@ -1,18 +1,12 @@
 # Files 文件操作
 
-------
-
 Languages: [English](README.md)|[中文](README_Simplified_Chinese)
-
-------
 
 ## 组织结构
 
 这里为每个工具建立了一个文件夹。在这个文档中仅显示工具的简介
 
 - [remove_jpg](remove_jpg/) -- 当目录下存在同名dng和jpg文件时，删除jpg的工具。
-
-------
 
 ## Contribute your code
 
