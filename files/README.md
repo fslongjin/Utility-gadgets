@@ -1,6 +1,6 @@
 # Files
 
-Languages: English|[中文](README_Simplified_Chinese)
+Languages: English|[中文](README_Simplified_Chinese.md)
 
 ## Organizational structure
 

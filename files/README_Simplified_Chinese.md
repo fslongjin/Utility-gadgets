@@ -1,6 +1,6 @@
 # Files 文件操作
 
-Languages: [English](README.md)|[中文](README_Simplified_Chinese)
+Languages: [English](README.md)|[中文](README_Simplified_Chinese.md)
 
 ## 组织结构
 

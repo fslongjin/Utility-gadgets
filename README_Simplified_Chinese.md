@@ -1,6 +1,6 @@
 # 实用小工具
 
-语言: [English](README.md)|[中文](README_Simplified_Chinese)
+语言: [English](README.md)|[中文](README_Simplified_Chinese.md)
 
 ## 这是什么？
 
