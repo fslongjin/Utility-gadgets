@@ -4,10 +4,9 @@ Languages: English|[中文](README_Simplified_Chinese.md)
 
 ## Organizational structure
 
-I want to classify scripts by folder according to their purpose, so you can find them faster!
-When you are contributing to a project, I hope you can do the same~
+A folder is created for each tool. Only the introduction of the tool is displayed in this document
 
-- [files](files/) -- Tools related to file operation
+- [remove_jpg](remove_jpg/) -- When DNG and JPG files with the same name exist in the directory, delete the JPG.
 
 ## Contribute your code
 
