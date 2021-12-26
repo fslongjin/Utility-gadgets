@@ -4,6 +4,8 @@ Languages: English
 
 Python version: >=3.5
 
+When DNG and JPG files with the same name exist in the directory, delete the JPG
+
 ## Usage
 
 1. Install all packages listed in [requirements.txt](requirements.txt)
