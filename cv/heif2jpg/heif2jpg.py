@@ -69,7 +69,7 @@ class Convert(Process):
  
  
 if __name__ == "__main__":
-    dir_path = input("请输入文件夹路径: ")
+    dir_path = input("Please input the path of source folder: ")
     
     opt_path = "./convert_output/"
     if not os.path.exists(opt_path):
